@@ -2,19 +2,19 @@ A collection of non-medical item animations, models and textures. As many items 
 
 Goes hand in hand with BHS Realistic Overhaul. This mod was originally a part of it.
 
-vodka(s) - Gunslinger animation with a different model and textures for both
-Gerkules(drug_booster) - Gunslinger anim + model.
-Anabiotic - Gunslinger anim + model.
-Nuts,raisins - FDDA can model but with nuts and raisins respectively.
-Salmon - FDDA fish can anim, unchanged.
-Energy drink - Gunslinger anim with a different texture(Non stop)
-Water drink(can) - Energy drink but with a water can texture(edited).
-Mineral water - Vanilla water bottle adapted to gunslinger drinking animation (took some Blender lessons)
-Quality vodka,metal flask - Flask reanimation with a texture and a customised sound(a bigger sip)
-Water Flask - Gunslinger water flask, unchanged.
-Beard's tea - Mineral water but retextured for tea.
-Tobacco,joint,marijuana,cigar - retextured FDDA smoking.
-Mints - very appropriately, a pills animation with a retexture for mints. Works very well
+- vodka(s) - Gunslinger animation with a different model and textures for both
+- Gerkules(drug_booster) - Gunslinger anim + model.
+- Anabiotic - Gunslinger anim + model.
+- Nuts,raisins - FDDA can model but with nuts and raisins respectively.
+- Salmon - FDDA fish can anim, unchanged.
+- Energy drink - Gunslinger anim with a different texture(Non stop)
+- Water drink(can) - Energy drink but with a water can texture(edited).
+- Mineral water - Vanilla water bottle adapted to gunslinger drinking animation (took some Blender lessons)
+- Quality vodka,metal flask - Flask reanimation with a texture and a customised sound(a bigger sip)
+- Water Flask - Gunslinger water flask, unchanged.
+- Beard's tea - Mineral water but retextured for tea.
+- Tobacco,joint,marijuana,cigar - retextured FDDA smoking.
+- Mints - very appropriately, a pills animation with a retexture for mints. Works very well
 
 Video in progress
 
