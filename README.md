@@ -22,6 +22,7 @@ Credits:
 Warhawk022 for some textures.
 Apathy_Knight for water flask rework, used for metal flask and quality vodka animations.
 BarryBogs for coaching me through basics of blender. Really. Thanks. Saved my sanity.
+Uknown person who ported all the animations from gunslinger
 
 Update 1.2
 - Compatibility for Western Goods
