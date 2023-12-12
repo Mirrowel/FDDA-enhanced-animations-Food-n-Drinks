@@ -16,13 +16,23 @@ Goes hand in hand with BHS Realistic Overhaul. This mod was originally a part of
 - Tobacco,joint,marijuana,cigar - retextured FDDA smoking.
 - Mints - very appropriately, a pills animation with a retexture for mints. Works very well
 
-Video in progress
+Video by NullMoxy: <https://www.youtube.com/watch?v=5_sO1PC6ll4&t=233s>
+
+Update 1.2M
+- Bread - MFS Bread animation
+- Sausage(and old) - MFS Sausage animation
 
 Credits:
 Warhawk022 for some textures.
 Apathy_Knight for water flask rework, used for metal flask and quality vodka animations.
 BarryBogs for coaching me through basics of blender. Really. Thanks. Saved my sanity.
-Uknown person who ported all the animations from gunslinger
+Teivaz for porting all the animations from gunslinger
+ZeburG - for porting MFS bread,kolbasa animations
+
+Update 1.2M
+- Added MFS Bread and Sausage animations as optional modules(Now working on making all animations optional)
+- Added cigarette smoke when smoking new items(thx BudBone)
+- Started work on CYOA tab(Choose Your Own Animation tab in the installer)
 
 Hotfix 1.2A
 - Fixed wrong config files
