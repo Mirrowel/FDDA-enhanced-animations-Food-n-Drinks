@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C0UZS4P)
+
 A collection of non-medical item animations, models and textures. As many items as possible were converted to fancier gunslinger animations. Some items had their use sounds replaced/enhanced. Items that lacked animations now have them. Originally made/adapted for ⁠BHS realistic overhaul by me, but separated out into a separate mod. Fully DLTX.
 
 Goes hand in hand with BHS Realistic Overhaul. This mod was originally a part of it.
